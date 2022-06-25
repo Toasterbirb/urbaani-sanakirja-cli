@@ -1,5 +1,5 @@
 # Urbaani Sanakirja CLI
-CLI tool for scraping urbaanisanakirja.com (finnish version of the urban dictionary)
+CLI tool for scraping urbaanisanakirja.com (Finnish version of the urban dictionary)
 
 ## Usage
 ./urban.sh [word]
